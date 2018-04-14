@@ -19,6 +19,7 @@
     },
     "files": [
         "index.d.ts",
+        "core.d.ts",
         "lodash-tests.ts",
         "add.d.ts",
         "after.d.ts",
